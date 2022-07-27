@@ -1,0 +1,9 @@
+SSH or Secure Shell is a network communication protocol that enables two computers to communicate and share data
+
+
+Types of SSH
+
+* DSA
+* RSA
+* ECDSA
+* ed25519
